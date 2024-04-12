@@ -1,4 +1,4 @@
-name: Deploy GuestbookApp #워크플로워 이름
+name: Deploy GuestbookApp
 
 on:							
   push:
